@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F17,100:1F6FEB&height=180&section=header&text=Vivek%20Pipaliya&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Unity%20Game%20Developer%20%7C%20Mobile%20%26%20Full-Stack%20Engineer&descAlignY=60&descSize=16" width="100%" />
+# Vivek Pipaliya
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=1F6FEB&center=true&vCenter=true&width=640&lines=Building+scalable+games%2C+apps+and+web+platforms;Real-money+multiplayer+%7C+Custom+software+%7C+Backend+systems;5%2B+years+%E2%80%A2+20%2B+products+shipped+%E2%80%A2+Team+Lead" alt="Typing SVG" />
+**Unity Game Developer · Mobile App Developer · Full-Stack Web & Backend Engineer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=Games+%E2%80%A2+Mobile+Apps+%E2%80%A2+Websites+%E2%80%A2+Backend;Real-money+Multiplayer+Specialist;5%2B+Years+%E2%80%A2+20%2B+Products+Shipped" alt="Typing SVG" />
 
 <br/>
 
@@ -34,14 +36,14 @@ Alongside game development, I design and build **custom software, mobile apps, w
 
 ### Services
 
-| | Service | Scope |
-|:-:|---|---|
-| 🎮 | **Game Development** | Unity 2D/3D, real-money multiplayer (Ludo, Rummy, Teen Patti), casino, hypercasual, puzzle, AR/VR |
-| 📱 | **Mobile App Development** | Native-quality Android and iOS apps, payments, push notifications, store publishing |
-| 🖥️ | **Custom Software** | Business tools, admin panels, dashboards and automation built to specification |
-| ⚙️ | **Backend Engineering** | REST APIs, real-time servers, databases, authentication, wallet and payment systems |
-| 🌐 | **Web Development** | Responsive websites, landing pages and full-featured web applications |
-| 🚀 | **Deployment & Maintenance** | Cloud hosting, CI/CD, performance tuning and long-term support |
+| Service | Scope |
+|---|---|
+| 🎮 **Game Development** | Unity 2D/3D, real-money multiplayer (Ludo, Rummy, Teen Patti), casino, hypercasual, puzzle, AR/VR |
+| 📱 **Mobile App Development** | Android and iOS apps, payments, push notifications, store publishing |
+| 🖥️ **Custom Software** | Business tools, admin panels, dashboards and automation built to specification |
+| ⚙️ **Backend Engineering** | REST APIs, real-time servers, databases, authentication, wallet and payment systems |
+| 🌐 **Web Development** | Responsive websites, landing pages and full-featured web applications |
+| 🚀 **Deployment & Maintenance** | Cloud hosting, CI/CD, performance tuning and long-term support |
 
 ---
 
@@ -90,8 +92,11 @@ Full portfolio: **[pipaliyavivek.github.io](https://pipaliyavivek.github.io/#por
 ### GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pipaliyavivek&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0F17" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipaliyavivek&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0F17" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pipaliyavivek&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pipaliyavivek&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10" />
 </p>
 
 ---
@@ -104,7 +109,5 @@ Have a game, app, website or software idea? I help take products from concept to
 
 [![Hire on Fiverr](https://img.shields.io/badge/Start%20a%20Project%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/WeeYdG5)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-pipaliya-4a99181a8/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0A0F17&height=100&section=footer" width="100%" />
 
 </div>
