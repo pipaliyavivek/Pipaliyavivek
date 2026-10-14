@@ -2,9 +2,9 @@
 
 # Hi, I'm Vivek Pipaliya 👋
 
-### 🎮 Unity Game Developer · Team Lead · Real-Money Multiplayer Specialist
+### 🎮 Unity Game Developer · 📱 Mobile App Developer · 🌐 Full-Stack Web & Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=5%2B+Years+Shipping+Unity+Games;Rummy+%E2%80%A2+Teen+Patti+%E2%80%A2+Ludo+%E2%80%A2+Casino;Real-time+Multiplayer+with+socket.io;Available+for+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=5%2B+Years+Shipping+Unity+Games;Custom+Software+Development;Mobile+App+Development;Website+%26+Backend+Development;Real-time+Multiplayer+with+socket.io;Available+for+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0F17?style=for-the-badge&logo=githubpages&logoColor=white)](https://pipaliyavivek.github.io/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/WeeYdG5)
@@ -21,21 +21,38 @@
 - 🃏 Currently leading **real-money multiplayer** games — Rummy, Teen Patti, Ludo & skill-based titles
 - 🌐 Expert in **server-authoritative gameplay**, matchmaking & secure **wallet/payment** integration
 - 🎰 Shipped casino games: Roulette, Blackjack, Dragon Tiger, Slots, Three-Card Poker
+- 💻 Beyond games, I build **custom software, mobile apps, websites and backend systems** end to end
 - 📍 Based in **Surat, Gujarat, India**
 - 💼 **Open to freelance projects** — [hire me on Fiverr](https://www.fiverr.com/s/WeeYdG5)
+
+---
+
+## 🧰 Services I Offer
+
+| Service | What I Build |
+|---|---|
+| 🎮 **Game Development** | Unity 2D/3D games, real-money multiplayer (Ludo, Rummy, Teen Patti), casino, hypercasual, puzzle, AR/VR |
+| 🖥️ **Custom Software Development** | Tailor-made software, admin panels, dashboards and business tools built to your requirements |
+| 📱 **Mobile Application Development** | Android & iOS apps with clean UI, payments, push notifications, Firebase and Play Store / App Store release |
+| ⚙️ **Backend Development** | REST APIs, real-time servers (socket.io), databases, authentication, wallet & payment systems |
+| 🌐 **Website Development** | Responsive business websites, portfolios, landing pages and full web applications |
+| 🚀 **Deployment & Support** | Hosting, server setup, store publishing, performance optimization and ongoing maintenance |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,firebase,nodejs,git,github,androidstudio,visualstudio,blender&perline=9" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,nodejs,js,html,css,firebase,mongodb,mysql,androidstudio,git,github,visualstudio&perline=13" />
 </p>
 
 | Area | Skills |
 |---|---|
 | 🎮 **Engine & Language** | Unity, C# |
-| 🌐 **Multiplayer** | socket.io, Real-time Sync, Matchmaking, Server-authoritative Logic |
+| 📱 **Mobile Apps** | Android & iOS App Development, Cross-platform Apps |
+| 🌐 **Web Development** | HTML, CSS, JavaScript, Responsive Websites, Web Applications |
+| ⚙️ **Backend** | Node.js, REST APIs, Databases, Authentication, Admin Panels |
+| 🔌 **Multiplayer** | socket.io, Real-time Sync, Matchmaking, Server-authoritative Logic |
 | 💰 **Monetization** | Ads Mediation, In-App Purchases, Wallet & Payment Integration |
 | ☁️ **Services** | Firebase, Google Play Services |
 | 📱 **Platforms** | Android, iOS, WebGL, AR / VR (XR) |
@@ -86,8 +103,8 @@
 
 ## 🤝 Let's Work Together
 
-Need a **Ludo, Rummy, Teen Patti, casino or hypercasual game** built in Unity?
-I'm available for freelance work!
+Need a **game, custom software, mobile app, website or backend** built?
+From idea to launch, I'm available for freelance work!
 
 <div align="center">
 
